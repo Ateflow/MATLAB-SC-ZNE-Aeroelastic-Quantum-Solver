@@ -1,4 +1,4 @@
-NOTE: This project doesn't state that the proposed solution & it's results are fully accurate. 
+NOTE: THIS PROJECT DOESN'T STATE THAT THE PROPOSED SOLUTION & IT'S RESULTS ARE FULLY ACCURATE.
 
 #  SC-ZNE: Symmetry-Constrained Zero-Noise Extrapolation for Quantum Aeroelasticity
 
