@@ -1,5 +1,3 @@
-NOTE: THIS PROJECT DOESN'T STATE THAT THE PROPOSED SOLUTION & IT'S RESULTS ARE FULLY ACCURATE, THIS IS JUST WORK DONE BY SOME RESEARCH & BRAINSTORMING (INCLUDES WORK DONE BY AI).
-
 #  SC-ZNE: Symmetry-Constrained Zero-Noise Extrapolation for Quantum Aeroelasticity
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2023a%2B-orange.svg?style=for-the-badge&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
@@ -7,7 +5,8 @@ NOTE: THIS PROJECT DOESN'T STATE THAT THE PROPOSED SOLUTION & IT'S RESULTS ARE F
 [![Status](https://img.shields.io/badge/Status-Research%20%26%20Dev-green.svg?style=for-the-badge)]()
 [![Domain](https://img.shields.io/badge/Domain-Aeroelasticity-red.svg?style=for-the-badge)]()
 
-> **Bridging the gap between theoretical quantum advantage and NISQ hardware limitations in flight-critical applications.**
+> NOTE: THIS PROJECT DOESN'T STATE THAT THE PROPOSED SOLUTION & IT'S RESULTS ARE FULLY ACCURATE, THIS IS JUST WORK DONE BY SOME RESEARCH & BRAINSTORMING (INCLUDES WORK DONE BY AI).
+> Bridging the gap between theoretical quantum advantage and NISQ hardware limitations in flight-critical applications.**
 
 ---
 
