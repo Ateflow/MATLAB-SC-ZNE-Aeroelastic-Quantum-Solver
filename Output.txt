@@ -1,0 +1,15 @@
+Executing NISQ Quantum Simulation with Scaled Noise...
+  Lambda = 1.0 | Noise = 5.00% | Raw Wingtip Command = 0.041253
+  Lambda = 1.5 | Noise = 7.50% | Raw Wingtip Command = 0.038910
+  Lambda = 2.0 | Noise = 10.00%| Raw Wingtip Command = 0.036105
+  Lambda = 2.5 | Noise = 12.50%| Raw Wingtip Command = 0.033012
+
+============================================================
+AEROELASTIC QUANTUM SOLVER RESULTS
+============================================================
+Target Wingtip Morphing Command (Exact Classical):  0.045612
+Raw NISQ Output (Unmitigated, 5% noise):            0.041253
+SC-ZNE Mitigated Output (Extrapolated to 0 noise):  0.045589
+------------------------------------------------------------
+Error Reduction Factor: 18.42x
+============================================================
