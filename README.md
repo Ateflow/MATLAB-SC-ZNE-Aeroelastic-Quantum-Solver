@@ -1,4 +1,4 @@
-# 🚀 SC-ZNE: Symmetry-Constrained Zero-Noise Extrapolation for Quantum Aeroelasticity
+#  SC-ZNE: Symmetry-Constrained Zero-Noise Extrapolation for Quantum Aeroelasticity
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2023a%2B-orange.svg?style=for-the-badge&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📑 Executive Summary
+##  Executive Summary
 
 This repository contains the foundational MATLAB framework for **Symmetry-Constrained Zero-Noise Extrapolation (SC-ZNE)**, a novel algorithmic error mitigation technique designed to solve linearized aeroelastic systems on Noisy Intermediate-Scale Quantum (NISQ) hardware. 
 
@@ -28,7 +28,7 @@ In real-time Fluid-Structure Interaction (FSI) and active wing morphing, the fli
 
 ---
 
-## 💡 The SC-ZNE Solution
+##  The SC-ZNE Solution
 
 Our approach introduces a **physics-informed constraint** to the standard Richardson extrapolation used in ZNE. By recognizing that the aeroelastic operator $A$ is inherently Hermitian and positive-definite, we constrain the extrapolation polynomial to preserve these physical invariants. 
 
@@ -38,7 +38,7 @@ Our approach introduces a **physics-informed constraint** to the standard Richar
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The MATLAB script is structured into five distinct engineering phases:
 
@@ -50,7 +50,7 @@ The MATLAB script is structured into five distinct engineering phases:
 
 ---
 
-## ⚙️ Prerequisites & Setup
+##  Prerequisites & Setup
 
 This codebase is designed for maximum compatibility in enterprise aerospace environments. **It requires zero external toolboxes.**
 
