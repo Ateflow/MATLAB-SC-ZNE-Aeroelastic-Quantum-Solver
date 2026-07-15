@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Research%20%26%20Dev-green.svg?style=for-the-badge)]()
 [![Domain](https://img.shields.io/badge/Domain-Aeroelasticity-red.svg?style=for-the-badge)]()
 
-> NOTE: THIS PROJECT DOESN'T STATE THAT THE PROPOSED SOLUTION & IT'S RESULTS ARE FULLY ACCURATE, THIS IS JUST WORK DONE BY SOME RESEARCH & BRAINSTORMING (INCLUDES WORK DONE BY AI).
+> Note: The project doesn't state that the proposed solution & it's results are fully accurate, this is just work done by some research & brainstorming (includes work done by ai).
 > Bridging the gap between theoretical quantum advantage and NISQ hardware limitations in flight-critical applications.**
 
 ---
